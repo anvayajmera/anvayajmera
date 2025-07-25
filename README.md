@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Anvay Ajmera!</h1>
-  <p>I am a passionate technical innovator and full-stack developer who is motivated by a mission to apply engineering and code to solve real-world problems. I'm also deeply committed to global impact as a UN Youth Leader, speaking and advocating for STEM education and digital equity. Visit my concise portfolio: www.anvayajmera.me</p>
+  <p>I am a passionate technical innovator and full-stack developer who is motivated by a mission to apply engineering and code to solve real-world problems. I'm also deeply committed to global impact as a UN Youth Leader, speaking and advocating for STEM education and digital equity. Visit my portfolio website at www.anvayajmera.me</p>
 </div>
 
 ---

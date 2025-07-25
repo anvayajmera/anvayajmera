@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Anvay Ajmera" width="150px" style="border-radius:50%; margin-bottom: 20px;">
-  <h1>Hi there 👋, I'm Anvay Ajmera!</h1>
-  <p>A passionate technical innovator and full-stack developer driven by a mission to apply engineering and code to solve real-world problems. I'm also deeply committed to global impact as a UN Youth Leader, advocating for STEM education and digital equity.</p>
+  <h1>Hi, I'm Anvay Ajmera!</h1>
+  <p>I am a passionate technical innovator and full-stack developer who is motivated by a mission to apply engineering and code to solve real-world problems. I'm also deeply committed to global impact as a UN Youth Leader, speaking and advocating for STEM education and digital equity. Visit my concise portfolio: www.anvayajmera.me</p>
 </div>
 
 ---
@@ -11,27 +10,27 @@
 -   Currently focused on **high-altitude balloon research** (Orionis APEX) and developing its AI stabilization systems and data analysis tools. This involves integrating complex engineering principles with cutting-edge AI for practical applications.
 -   Actively building and optimizing **full-stack web platforms**, including an event management system for gymnasiums and a research recruiting platform for university students.
 -   Exploring new ways to bridge educational gaps globally through initiatives like **Coders Over Borders**, empowering over 800 students with coding skills.
--   Always keen to dive into challenging projects that combine **robotics, computer vision, and machine learning**.
+-   Always excited to dive into challenging projects that combine **robotics, computer vision, and machine learning**. Email me if you have a project that requires this!
 
 ### 🛠️ My Toolkit
 
-**Languages:** JavaScript (Node.js), Python, Java, C++, HTML, CSS, Arduino (C/C++)
-**Web Dev:** React (implied from full-stack), Bootstrap, Tailwind CSS, Google Firebase
-**Engineering & Robotics:** Arduino, OpenCV, CAD (SketchUp), Machine Learning, AI Stabilization
+**Languages:** JavaScript, Python, Java, C++, HTML, CSS, Arduino (C/C++)
+**Web Dev:** React, Bootstrap, Tailwind CSS, Google Firebase
+**Engineering & Robotics:** Arduino, OpenCV, CAD (SketchUp, Onshape), Machine Learning, AI Stabilization
 **Tools & Platforms:** Git, GitHub, Vercel, VS Code
 
 ### ✨ Featured Projects
 
 Here are a few projects where I've focused on building impactful solutions:
 
-*   **[MegaLithium: RoboCup Junior Rescue Line Robot](https://github.com/anvayajmera/MegaLithium-RoboCup-Robot)** (Link if repo exists, else remove link)
+*   **[MegaLithium: RoboCup Junior Rescue Line Robot]**
     *   Led a team to develop a competition robot. Implemented a **real-time computer vision system using OpenCV** for autonomous path tracking through grayscale imaging and binary thresholding. (1st Place Nationals in Best Engineering Practices & Best Hardware Design, RCJ USA)
-*   **[Panther Venue Website & Grade Guru Website](https://anvayajmera.me/panther-venue-website)** (Replace with actual link if available)
-    *   Developed a **full-stack event platform** for gymnasiums and an advanced GPA calculator. Built with **Bootstrap, Google Firebase, and Tailwind CSS**, impacting 50+ students. (1st Place NJ & 7th Place Nationals FBLA Web Design)
-*   **[Orionis APEX: High-altitude Balloon Research Project](https://github.com/anvayajmera/Orionis-APEX)** (Link if repo exists, else remove link)
+*   **[Panther Venue Website](https://panthervenue.tech)** (Replace with actual link if available)
+    *   Developed a **full-stack event platform** for gymnasiums. Built with **Bootstrap, Google Firebase, and Tailwind CSS**, impacting 50+ students. (1st Place NJ & 7th Place Nationals FBLA Web Design (top 0.05%)
+*   **[Orionis APEX: High-altitude Balloon Research Project]** (Link if repo exists, else remove link)
     *   Engineered a near-space payload with **AI stabilization** and spectroscopy for atmospheric data collection. Designed custom hardware and collected initial datasets for research. (Awarded $1000+, Top 10% to attend New England Sci Tech launch)
-*   **[BRHS Board of Education Website Development](https://anvayajmera.me/brhs-website)** (Replace with actual link if available)
-    *   As an intern, contributed to the **development of the official BRHS Board of Education website**, focusing on enhancing user experience and functionality.
+*   **[BRHS Board of Education Website Development]** 
+    *   As an intern, contributing to the **development of the official BRHS Board of Education website**, by considering student body input.
 
 ### 🌐 Leadership & Impact
 
@@ -39,14 +38,7 @@ Beyond the code, I'm passionate about driving change:
 
 *   **UN Youth Leader (Dynamic Teen Coalition):** Advocating for youth STEM education and digital equity at UN forums. Submitted policy proposals to Vint Cerf and presented youth-led solutions at the UN ECOSOC Youth Forum to hundreds of attendees.
 *   **Co-Founder, Coders Over Borders:** Leading a team of 30 across multiple countries, providing coding education and curriculum to over 800 international students. Secured significant funding and recognition from organizations like PBS.
-*   **NPO STEM Youth Director (Siblings Keeper):** Built a **backend system** to facilitate a resource-sharing initiative (YSWS) that distributes Arduino kits to teens globally, directly advancing SDG 4.
-
-### 🏆 Recognitions
-
--   **1st Place Nationals** - Best Engineering Practices & Best Hardware Design, RoboCup Junior USA
--   **7th Place Nationals** - FBLA Website Design (1st Place New Jersey)
--   **8th Place Nationals** - FBLA IT Programming (2nd Place New Jersey)
--   **Gold Medal** - The President's Volunteer Service Award (100+ hours)
+*   **NPO STEM Youth Director (Siblings Keeper):** Built a **full-stack system** to allow for a resource-sharing initiative (YSWS) that distributes Arduino kits to teens globally, directly advancing SDG 4.
 
 ### 🌱 Looking Ahead
 
@@ -62,9 +54,8 @@ I'm always eager to learn, collaborate, and contribute to meaningful open-source
 
 ---
 
-<!-- Optional: GitHub Stats (replace with your actual username and choose options) -->
+
 <div align="center">
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=anvayajmera&show_icons=true&theme=radical" alt="Anvay's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anvayajmera&theme=dark" alt="Anvay's GitHub Streak"/>
+  <h3>My Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvayajmera&layout=compact&theme=radical&hide_progress=true" alt="Anvay's Top Languages" />
 </div>

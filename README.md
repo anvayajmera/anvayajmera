@@ -56,6 +56,9 @@ I'm always eager to learn, collaborate, and contribute to meaningful open-source
 
 
 <div align="center">
+  <h3>My GitHub Contributions</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=anvayajmera&show_icons=true&theme=radical&hide=issues,prs,stars,forks" alt="Anvay's GitHub Stats"/>
+
   <h3>My Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvayajmera&layout=compact&theme=radical&hide_progress=true" alt="Anvay's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvayajmera&layout=compact&theme=radical" alt="Anvay's Top Languages" />
 </div>

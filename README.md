@@ -25,9 +25,9 @@ Here are a few projects where I've focused on building impactful solutions:
 
 *   **[MegaLithium: RoboCup Junior Rescue Line Robot]**
     *   Led a team to develop a competition robot. Implemented a **real-time computer vision system using OpenCV** for autonomous path tracking through grayscale imaging and binary thresholding. (1st Place Nationals in Best Engineering Practices & Best Hardware Design, RCJ USA)
-*   **[Panther Venue Website](https://panthervenue.tech)** (Replace with actual link if available)
+*   **[Panther Venue Website](https://panthervenue.tech)** 
     *   Developed a **full-stack event platform** for gymnasiums. Built with **Bootstrap, Google Firebase, and Tailwind CSS**, impacting 50+ students. (1st Place NJ & 7th Place Nationals FBLA Web Design (top 0.05%)
-*   **[Orionis APEX: High-altitude Balloon Research Project]** (Link if repo exists, else remove link)
+*   **[Orionis APEX: High-altitude Balloon Research Project]**
     *   Engineered a near-space payload with **AI stabilization** and spectroscopy for atmospheric data collection. Designed custom hardware and collected initial datasets for research. (Awarded $1000+, Top 10% to attend New England Sci Tech launch)
 *   **[BRHS Board of Education Website Development]** 
     *   As an intern, contributing to the **development of the official BRHS Board of Education website**, by considering student body input.

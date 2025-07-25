@@ -7,19 +7,19 @@
 
 ### 🚀 What I'm Up To
 
--   Currently focused on **high-altitude balloon research** (Orionis APEX) and developing its AI stabilization systems and data analysis tools. This involves integrating complex engineering principles with cutting-edge AI for practical applications.
+-   Focused on **high-altitude balloon research** (Orionis APEX) and developing its AI stabilization systems and data analysis tools. This involves integrating complex engineering principles with cutting-edge AI for practical applications. On June 21st, 2025, we sent our technology 100,000 feet into the stratosphere (the edge of space).
 -   Actively building and optimizing **full-stack web platforms**, including an event management system for gymnasiums and a research recruiting platform for university students.
 -   Exploring new ways to bridge educational gaps globally through initiatives like **Coders Over Borders**, empowering over 800 students with coding skills.
 -   Always excited to dive into challenging projects that combine **robotics, computer vision, and machine learning**. Email me if you have a project that requires this!
 
-### 🛠️ My Toolkit
+### 🛠️ Here's My Toolkit
 
 **Languages:** JavaScript, Python, Java, C++, HTML, CSS, Arduino (C/C++)
 **Web Dev:** React, Bootstrap, Tailwind CSS, Google Firebase
 **Engineering & Robotics:** Arduino, OpenCV, CAD (SketchUp, Onshape), Machine Learning, AI Stabilization
 **Tools & Platforms:** Git, GitHub, Vercel, VS Code
 
-### ✨ Featured Projects
+### ✨ Get a Glimpse of My Featured Projects
 
 Here are a few projects where I've focused on building impactful solutions:
 
@@ -31,14 +31,6 @@ Here are a few projects where I've focused on building impactful solutions:
     *   Engineered a near-space payload with **AI stabilization** and spectroscopy for atmospheric data collection. Designed custom hardware and collected initial datasets for research. (Awarded $1000+, Top 10% to attend New England Sci Tech launch)
 *   **[BRHS Board of Education Website Development]** 
     *   As an intern, contributing to the **development of the official BRHS Board of Education website**, by considering student body input.
-
-### 🌐 Leadership & Impact
-
-Beyond the code, I'm passionate about driving change:
-
-*   **UN Youth Leader (Dynamic Teen Coalition):** Advocating for youth STEM education and digital equity at UN forums. Submitted policy proposals to Vint Cerf and presented youth-led solutions at the UN ECOSOC Youth Forum to hundreds of attendees.
-*   **Co-Founder, Coders Over Borders:** Leading a team of 30 across multiple countries, providing coding education and curriculum to over 800 international students. Secured significant funding and recognition from organizations like PBS.
-*   **NPO STEM Youth Director (Siblings Keeper):** Built a **full-stack system** to allow for a resource-sharing initiative (YSWS) that distributes Arduino kits to teens globally, directly advancing SDG 4.
 
 ### 🌱 Looking Ahead
 
@@ -53,11 +45,9 @@ I'm always eager to learn, collaborate, and contribute to meaningful open-source
 <a href="https://instagram.com/anvay_ajmera" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ---
-
-
 <div align="center">
-  <h3>My GitHub Contributions</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=anvayajmera&show_icons=true&theme=radical&hide=issues,prs,stars,forks" alt="Anvay's GitHub Stats"/>
+  <h3>My GitHub Activity Overview</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=anvayajmera&show_icons=true&theme=radical&hide=issues,prs,stars,forks&hide_rank=true" alt="Anvay's GitHub Activity"/>
 
   <h3>My Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvayajmera&layout=compact&theme=radical" alt="Anvay's Top Languages" />

@@ -7,10 +7,10 @@
 
 ### 🛠️ Here's My Toolkit
 
-**Languages:** JavaScript, Python, Java, C++, HTML, CSS, Arduino (C/C++)
-**Web Dev:** React, Bootstrap, Tailwind CSS, Google Firebase
-**Engineering & Robotics:** Arduino, OpenCV, CAD (SketchUp, Onshape), Machine Learning, AI Stabilization
-**Tools & Platforms:** Git, GitHub, Vercel, VS Code
+Languages: JavaScript, Python, Java, C++, HTML, CSS, Arduino (C/C++)
+Libraries: React, Bootstrap, Tailwind CSS, Google Firebase
+Robotics: Arduino, OpenCV, CAD (SketchUp, Onshape), Machine Learning, AI Stabilization
+Tools: Git, GitHub, Vercel, VS Code
 
 ### ✨ Take a Look at my Featured Projects
 
@@ -21,9 +21,9 @@ Here are a few projects where I've focused on building impactful solutions:
 *   **[Panther Venue Website](https://panthervenue.tech)** 
     *   Developed a **full-stack event platform** for gymnasiums. Built with **Bootstrap, Google Firebase, and Tailwind CSS**, impacting 50+ students. (1st Place NJ & 7th Place Nationals FBLA Web Design (top 0.05%)
 *   **[Orionis APEX: High-altitude Balloon Research Project]**
-    *   Engineered a near-space payload with **AI stabilization** and spectroscopy for atmospheric data collection. Designed custom hardware and collected initial datasets for research. (Awarded $1000+, Top 10% to attend New England Sci Tech launch)
+    *   Engineered a near-space payload with **AI stabilization** and spectroscopy for atmospheric data collection. Designed custom hardware and collected initial datasets for research.
 *   **[BRHS Board of Education Website Development]** 
-    *   As an intern, contributing to the **development of the official BRHS Board of Education website**, by considering student body input.
+    *   As an intern, contributing to the **development of the official BRHS Board of Education website** by considering student body input.
 
 ### 🌱 Looking Ahead
 

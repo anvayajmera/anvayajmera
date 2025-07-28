@@ -12,7 +12,7 @@
 **Engineering & Robotics:** Arduino, OpenCV, CAD (SketchUp, Onshape), Machine Learning, AI Stabilization
 **Tools & Platforms:** Git, GitHub, Vercel, VS Code
 
-### ✨ Get a Glimpse of My Featured Projects
+### ✨ Take a Look at my Featured Projects
 
 Here are a few projects where I've focused on building impactful solutions:
 

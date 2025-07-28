@@ -5,13 +5,6 @@
 
 ---
 
-### 🚀 What I'm Up To
-
--   Focused on **high-altitude balloon research** (Orionis APEX) and developing its AI stabilization systems and data analysis tools. This involves integrating complex engineering principles with cutting-edge AI for practical applications. On June 21st, 2025, we sent our technology 100,000 feet into the stratosphere (the edge of space).
--   Actively building and optimizing **full-stack web platforms**, including an event management system for gymnasiums and a research recruiting platform for university students.
--   Exploring new ways to bridge educational gaps globally through initiatives like **Coders Over Borders**, empowering over 800 students with coding skills.
--   Always excited to dive into challenging projects that combine **robotics, computer vision, and machine learning**. Email me if you have a project that requires this!
-
 ### 🛠️ Here's My Toolkit
 
 **Languages:** JavaScript, Python, Java, C++, HTML, CSS, Arduino (C/C++)
